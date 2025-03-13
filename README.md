@@ -7,10 +7,10 @@ Projet réalisé en collaboration avec Jean-Louis Hu et Thomas Dahrouj, visant �
 
 ***⚙️ Comment l'utiliser ?***
 
-- Téléchargez le projet pour accéder aux scripts SQL et à la documentation.
-- Créez la base de données PostgreSQL et exécutez les scripts SQL pour générer les tables et les relations.
-- Importez les jeux de données (fichiers CSV) en utilisant l'interface PgAdmin ou les requêtes SQL.
-- Utilisez les requêtes fournies pour analyser les données, détecter les anomalies et en tirer des insights.
+- Téléchargez le rapport pour comprendre le cheminement de création de la base de données relationnelle.
+  
+- Regardez le tutoriel vidéo pour suivre étape par étape le processus de création, de nettoyage et d'analyse des données.
+
   
 ***🛠️ Technologies utilisées***
 
